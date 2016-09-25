@@ -1,0 +1,7 @@
+D:\Projects\C#\验证码识别\DynamicDecode\bin\Debug\DynamicDecode.dll
+D:\Projects\C#\验证码识别\DynamicDecode\bin\Debug\DynamicDecode.pdb
+D:\Projects\C#\验证码识别\DynamicDecode\obj\Debug\DynamicDecode.dll
+D:\Projects\C#\验证码识别\DynamicDecode\obj\Debug\DynamicDecode.pdb
+D:\Projects\C#\验证码识别\DynamicDecode\bin\Debug\DecodeHelper.dll
+D:\Projects\C#\验证码识别\DynamicDecode\bin\Debug\DecodeHelper.pdb
+D:\Projects\C#\验证码识别\DynamicDecode\obj\Debug\DynamicDecode.csprojResolveAssemblyReference.cache

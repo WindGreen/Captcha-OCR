@@ -1,0 +1,5 @@
+D:\Projects\C#\验证码识别\UnCode\bin\Debug\UnCode.dll
+D:\Projects\C#\验证码识别\UnCode\bin\Debug\UnCode.pdb
+D:\Projects\C#\验证码识别\UnCode\obj\Debug\UnCode.dll
+D:\Projects\C#\验证码识别\UnCode\obj\Debug\UnCode.pdb
+D:\Projects\C#\验证码识别\UnCode\obj\Debug\UnCodeHelper.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Projects\C#\验证码识别\DecodeHelper\bin\Debug\DecodeHelper.dll
+D:\Projects\C#\验证码识别\DecodeHelper\bin\Debug\DecodeHelper.pdb
+D:\Projects\C#\验证码识别\DecodeHelper\obj\Debug\DecodeHelper.dll
+D:\Projects\C#\验证码识别\DecodeHelper\obj\Debug\DecodeHelper.pdb
+D:\Projects\C#\验证码识别\DecodeHelper\obj\Debug\DecodeHelper.csprojResolveAssemblyReference.cache
